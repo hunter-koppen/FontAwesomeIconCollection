@@ -20,7 +20,7 @@ Font awesome has a free and a pro license, you can check on their website which 
 Icon collections are new in Mendix, you can read about them in the documentation here:
 https://docs.mendix.com/refguide/icon-collection/
 
-They basically work the same as the Glyphicons where you can simply use font-size and color on the image and it will change size and color directly. Sadly not all widget support the new Icon Collections yet but most new Mendix widgets do. For example the Image widget that Mendix released not too long ago supports the new Icons Collections. See here: https://marketplace.mendix.com/link/component/118579
+They basically work the same as the Glyphicons where you can simply use font-size and color and it will change size and color directly. Sadly not all widgets support the new Icon Collections yet but most new Mendix widgets do. For example the Image widget that Mendix released not too long ago supports the new Icons Collections. See here: https://marketplace.mendix.com/link/component/118579
 
 ## Issues, suggestions and feature requests
 https://github.com/hunter-koppen/FontAwesomeIconCollection/issues
