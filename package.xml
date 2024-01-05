@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.mendix.com/package/1.0/"><modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/"><module name="FontAwesomeIcons" /><projectFile path="project.mpr" /><files><file path="themesource/fontawesomeicons/settings.json" /><file path="themesource/fontawesomeicons/native/design-properties.json" /><file path="themesource/fontawesomeicons/native/main.js" /><file path="themesource/fontawesomeicons/web/design-properties.json" /><file path="themesource/fontawesomeicons/web/main.scss" /></files></modelerProject></package>
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="FontAwesomeIcons" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="themesource/fontawesomeicons/settings.json" />
+      <file path="themesource/fontawesomeicons/native/design-properties.json" />
+      <file path="themesource/fontawesomeicons/native/main.js" />
+      <file path="themesource/fontawesomeicons/web/design-properties.json" />
+      <file path="themesource/fontawesomeicons/web/main.scss" />
+    </files>
+  </modelerProject>
+</package>
