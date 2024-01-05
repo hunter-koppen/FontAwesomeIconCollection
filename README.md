@@ -1,5 +1,5 @@
 ## Font Awesome Icon Collection
-This module contains the full set of the Free version 6 of Font Awesome packaged in an Icon Collection.
+This module contains the full set of the Free version 6.5.1 of Font Awesome packaged in an Icon Collection.
 
 ## Features
 It contains 3 icon collections
