@@ -1,20 +1,16 @@
 ## Font Awesome Icon Collection
-This module contains the full set of the Pro version 6 of Font Awesome packaged in an Icon Collection.
+This module contains the full set of the Free version 6 of Font Awesome packaged in an Icon Collection.
 
 ## Features
-It contains 4 icon collections
+It contains 3 icon collections
 - Brands
-- Light
+- Solid
 - Regular
-- Thin
 
 ## Usage
-Simply download the module from the appstore and thats it. If you want you can remove the icon sets that you do not need.
+Simply download the module from the appstore and thats it.
 
 The full Icon set can be viewed here: https://fontawesome.com/search
-
-## License
-Font awesome has a free and a pro license, you can check on their website which icons you can use for free. For all the other icons you will atleast need a pro license, see here: https://fontawesome.com/license
 
 ## About Icon Collections
 Icon collections are new in Mendix, you can read about them in the documentation here:
